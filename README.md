@@ -18,7 +18,11 @@ This project is a data analysis of biker sales using Microsoft Excel by Alex the
 •	Which age group purchases the most bikes?
 
 
-# 1. Data Cleaning
+## 1. Data Cleaning
 - First I separate the original data and coped the data into new sheet called working sheet in order to not miss with the original work 
 
 ## -1.1 removed any duplicates faced
+
+![image](https://github.com/user-attachments/assets/e2538892-2797-455a-bb33-f98ca9729826)
+
+
