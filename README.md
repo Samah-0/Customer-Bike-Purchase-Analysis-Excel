@@ -17,3 +17,8 @@ This project is a data analysis of biker sales using Microsoft Excel by Alex the
 •	Is there a correlation between education level and bike purchases?
 •	Which age group purchases the most bikes?
 
+
+# 1. Data Cleaning
+- First I separate the original data and coped the data into new sheet called working sheet in order to not miss with the original work 
+
+## -1.1 removed any duplicates faced
